@@ -1,0 +1,19 @@
+{
+  "appKey": "0XRglTiuw98HPfEVT0bPK8p8EqwBpXiC",
+  "appSecret": "2a4b1qhnbt8Lp2wZdqbGonaj26Y0Gza0",
+  "projectId": "62688455e02b7571e14e218b609c445c",
+  "id": 254,
+  "name": "test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "熟悉一下",
+  "git": {
+    "url": "https://github.com/chenxing-lh/ttttt.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
